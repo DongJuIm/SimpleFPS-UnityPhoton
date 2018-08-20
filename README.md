@@ -6,7 +6,7 @@ It's a simple 1:1 fps game where you find a single shot that's hidden randomly i
 * C#
 
 # Reference
-google Search
-Stack Overflow
-Blog
-etc
+* google Search
+* Stack Overflow
+* Blog
+* etc
